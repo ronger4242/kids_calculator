@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .calc-container {
+    @apply bg-white/90 rounded-3xl p-4 m-4;
+  }
+
+  .theme-image {
+    @apply w-full h-40 rounded-2xl mb-4 object-cover;
+  }
+
+  .display {
+    @apply text-right text-4xl p-2 mb-4;
+  }
+
+  .btn-calc {
+    @apply p-2 text-xl font-bold rounded-2xl
+           transition-all duration-200 active:scale-95 transform
+           flex items-center justify-center min-h-[3.5rem]
+           text-white shadow-md hover:brightness-110;
+  }
+
+  .theme-transition {
+    @apply transition-all duration-300;
+  }
+
+  .buttons-grid {
+    @apply grid grid-cols-4 gap-2;
+  }
+}
+
