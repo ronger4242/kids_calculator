@@ -52,3 +52,9 @@ Try different sound themes to find what's most engaging
 Transform math practice into an exciting adventure
 
 Have fun calculating in your chosen magical world! ✨🎨🎵
+
+
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/2aa7addb-02f7-42cd-a419-1d2cf41a9f4b" />  <img width="379" alt="image" src="https://github.com/user-attachments/assets/87c755a4-b0c4-4c12-89ff-826fe5f9ef38" />
+
+
+
