@@ -56,7 +56,8 @@ Control App permissions through your device settings
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 andrewyao@gmail.com or shengnan.n.zhao@gmail.com
-App Store Compliance
+
+## App Store Compliance
 This App complies with:
 
 Apple's App Store Review Guidelines
