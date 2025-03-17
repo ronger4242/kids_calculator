@@ -1,4 +1,4 @@
-# 🌟 Kids' Fun Calculator
+# 🌟 Kids' Fun Calculator  https://calcoolator-kids-fun-calculator.netlify.app/ 
 Welcome to your magical calculator adventure! This colorful calculator makes learning math fun with cute themes and friendly sounds.
 ✨ Cool Features
 Calculator Functions
